@@ -3,12 +3,12 @@
 # Targeting Requirements Violations of Autonomous Driving Systems by Dynamic Evolutionary Search
 
 Y. Luo et al., "Targeting Requirements Violations of Autonomous Driving Systems by Dynamic Evolutionary Search," 2021 
-36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp. 279-291, doi: 10.1109/ASE51524.2021.9678883.
+36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp. 279-291. doi: [10.1109/ASE51524.2021.9678883](https://doi.org/10.1109/ASE51524.2021.9678883)
 
 ## 1. Fichamento de Conteúdo
 
 Sistemas de direção autônoma(*ADSs*, do inglês *Autonomous Driving Systems*) estão cada vez mais sendo utilizados no contexto mercantil e industrial, como no transporte de 
-mercadorias *delivery* e na produção de carros *self-driving*, tais sistemas apresentam alto grau de complexidade, pois necessitam abarcar uma série de requerimentos que 
+mercadorias *delivery* e na produção de carros *self-driving*, tais sistemas apresentam alto grau de complexidade.De tal modo, necessitam abarcar uma série de requerimentos que 
 vão desde a segurança fornecida ao utente à obediência de regras de trânsito determinadas por localidade. Assim, o principal problema gira em torno da promoção de requisitos
 a serem satisfeitos por parte dos desenvolvedores de *ADSs* que precisam saber combinações de violações que podem ocorrer e que gerarão falhas de atuação. Adversamente não 
 existem testes de geração de cenários que possam expor diferentes combinações de requerimentos, o artigo promove então a criação de um *requirements violation pattern* para 
@@ -24,6 +24,7 @@ com procedência de nível crítico alta.
 * _Criticality ranking_ (classificação de criticidade) uma lista em ordem decrescente dos requisitos de violação padrões com base no seu nível crítico (página 282).
 * _Search-based testing_ (testes baseados em pesquisa) por meio de otimização são criados cenários críticos de testes em veículos autônomos com propositais testes falhos (página 289).
 * _Requirements-based testing_ (testes baseados em requisitos) checagem dos requisitos durante o desenvolvimento com o intuito de refrear recursos não prescindíveis no *design* de sistemas (página 289).
+* _EMOOD_ teste responsável por gerar cenários diferentes para tornar visível distintas combinações de violações em ADS.
 
 
 ## 3. Fichamento de Citações 

@@ -2,7 +2,7 @@
 
 # Misbehaviour Prediction for Autonomous Driving Systems
 
-Andrea Stocco, Michael Weiss, Marco Calzana, and Paolo Tonella. 2020. Misbehaviour prediction for autonomous driving systems. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE '20). Association for Computing Machinery, New York, NY, USA, 359–371. https://doi.org/10.1145/3377811.3380353.
+Andrea Stocco, Michael Weiss, Marco Calzana, and Paolo Tonella. 2020. Misbehaviour prediction for autonomous driving systems. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE '20). Association for Computing Machinery, New York, NY, USA, 359–371. doi: [10.1145/3377811.3380353](https://doi.org/10.1145/3377811.3380353)
 
 ## 1. Fichamento de Conteúdo
 

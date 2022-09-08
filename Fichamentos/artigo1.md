@@ -2,7 +2,7 @@
 
 # Does mutation testing improve testing practices?
 
-G. Petrović, M. Ivanković, G. Fraser and R. Just, "Does Mutation Testing Improve Testing Practices?," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 910-921, doi: 10.1109/ICSE43902.2021.00087.
+G. Petrović, M. Ivanković, G. Fraser and R. Just, "Does Mutation Testing Improve Testing Practices?," 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 910-921. doi: [10.1109/ICSE43902.2021.00087](https://doi.org/10.1109/ICSE43902.2021.00087)
 
 ## 1. Fichamento de Conteúdo
 

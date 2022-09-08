@@ -2,7 +2,8 @@
 
 # A Comprehensive Study of Autonomous Vehicle Bugs
 
-J. Garcia, Y. Feng, J. Shen, S. Almanee, Y. Xia and Q. A. Chen, "A Comprehensive Study of Autonomous Vehicle Bugs," 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE), 2020, pp. 385-396.
+J. Garcia, Y. Feng, J. Shen, S. Almanee, Y. Xia and Q. A. Chen, "A Comprehensive Study of Autonomous Vehicle Bugs," 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE), 2020, pp. 385-396. doi: [10.1145/3377811.3380397](https://doi.org/10.1145/3377811.3380397)
+
 
 ## 1. Fichamento de Conteúdo
 

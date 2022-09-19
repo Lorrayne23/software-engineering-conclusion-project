@@ -1,18 +1,22 @@
 # Título do trabalho
 
-1. Lorrayne Reis Silva
+## Alunos integrantes da equipe
 
+* Lorrayne Reis Silva
 
-* 
-* Nome do orientador acadêmico
+## Orientadores
+
+* Jose Laerte Pires Xavier Junior (TCCI)
+* Cleiton Silva Tavares (TCCI)
+* Simone de Assis Alves da Silva (TCCI)
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é.... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. O problema que este trabalho busca resolver nessa área é... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Resolver este problema é relevante por que...
-1. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
+1. A área da Engenharia de Software tratada neste trabalho é qualidade e operação de recursos de *software*.
+1. O problema que este trabalho busca resolver nessa área é a pontuação da discrepância de qualidade de *softwares* simuladores *open source* na promoção de *code smells* que podem ocasioanar em  simulações de baixa confiabilidade.
+1. Resolver este problema é relevante por que outras abordagens da literatura não apontam a necessidade atencional a *softwares* ADSs *open source* não qualitativos que promulgam *code smells* que consequentemente contribuem para simulações falhas no desenvolvimento de AVs. 
+1. O objetivo geral deste trabalho é identificar o relacionamento entre atributos de qualidade de *softwares simuladores* *open source* ADSs na ocorrência  de *code smells*.
+1. Os *três* objetivos específicos deste trabalho são : 1) Análises estáticas de códigos atreladas ao nível de modificabilidade decorrente em repositórios, 2) *Classificação de code smells* frequentes, 3) Ocorrências de *code smells* prejudiciais para os atributos internos de qualidade. 
 
 ## Fundamentação Teórica
 

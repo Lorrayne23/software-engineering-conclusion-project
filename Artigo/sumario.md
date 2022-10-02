@@ -13,10 +13,12 @@
 ## Introdução
 
 1. A área da Engenharia de Software tratada neste trabalho é qualidade e operação de recursos de *software*.
-1. O problema que este trabalho busca resolver nessa área é a pontuação da discrepância de qualidade de *softwares* simuladores *open source* na promoção de *code smells* que podem ocasioanar em  simulações de baixa confiabilidade.
-1. Resolver este problema é relevante por que outras abordagens da literatura não apontam a necessidade atencional a *softwares* ADSs *open source* não qualitativos que promulgam *code smells* que consequentemente contribuem para simulações falhas no desenvolvimento de AVs. 
-1. O objetivo geral deste trabalho é identificar o relacionamento entre atributos de qualidade de *softwares simuladores* *open source* ADSs na ocorrência  de *code smells*.
-1. Os *três* objetivos específicos deste trabalho são : 1) Análises estáticas de códigos atreladas ao nível de modificabilidade decorrente em repositórios, 2) *Classificação de code smells* frequentes, 3) Ocorrências de *code smells* prejudiciais para os atributos internos de qualidade. 
+1. O problema a ser resolvido se pontua na discrepância da qualidade de repositórios de *softwares* *open source* simuladores na promoção de *code smells*, que podem ocasionar em simulações de baixa confiabilidade, acarretando deficiência de acuracidade no desenvolvimento de tais aplicações.
+1. Resolver o problema desse trabalho  é importante  pois outras abordagens da literatura não apontam a necessidade atencional a *softwares* ADSs
+*open source* não qualitativos que promulgam 8code smells* que contribuem para simulações falhas no desenvolvimento de AVs, além da promoção desses na maior utilização de recursos computacionais que podem afetar tempos de operaçãoo quando executados. 
+1. O objetivo geral do trabalho visa identificar o relacionamento entre atributos de qualidade de *softwares* simuladores *open source* ADSs na ocorrência de *code smells* e o fator de consumo promulgado por esses.
+1. Os *três* objetivos específicos deste trabalho são :  1) Análises estáticas de códigos atreladas a
+classificação de *code smells* frequentes em ADSs, 2) Ocorrências de *code smells* prejudiciais para os atributos internos de qualidade e 3) Impacto da refatoração de *code smells* atrelados a consumo e execução temporal.
 
 ## Fundamentação Teórica
 

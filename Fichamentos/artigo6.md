@@ -24,4 +24,4 @@ O crescimento e desenvolvimento de *self-driving cars* promulgou a rápida ascen
 * _"We used a limited number of self-driving sys- tems in our evaluation, as well as tracks, which pose a threat in terms of generalizability of our results. We tried to mitigate this threat by choosing popular real-world SDC models which achieved competitive scores in the Udacity challenge."_
 * _"Our tool SelfOracle was able to anticipate by several seconds many potentially safety-critical misbehaviours, such as out-of-bound episodes or collisions, with a low false alarm rate, outperforming the input validator of DeepRoad."_
 
-<duv>
+<div>

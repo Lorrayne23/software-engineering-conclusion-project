@@ -30,9 +30,9 @@ a qualidade de software se estabelece não somente nos problemas que esse tange 
 
 ## Trabalhos Relacionados
 
-1. O trabalho mais relacionado é ...., publicado no ano ..., por que ....
-1. O segundo trabalho mais relacionado é .... , publicado no ano ..., por que ....
-1. O terceiro trabalho mais relacionado é ...., publicado no ano ...,  por que ....
+1. O trabalho mais relacionado é *An Are Code Smell Co-occurrences Harmful to Internal Quality Attributes? A Mixed-Method Study*, publicado no ano 2020 , por que apresenta a relação existente entre *code smells* e atributos internos de qualidade por meio de métricas validas e com embasamento teórico.
+1. O segundo trabalho mais relacionado é *An Empirical Investigation on the Effect of Code Smells on Resource Usage of Android Mobile Applications*, publicado no ano 2020, por que apresenta a diretriz de *code smells* em afetamento direto a recursos como CPU e memória.
+1. O terceiro trabalho mais relacionado é *On the Diffuseness and the Impact on Maintainability of Code Smells: A Large Scale Empirical Investigation*, publicado no ano 2018,  por que  discorre da atuação de *code smells* como possíveis percussores de falhas em um software.
 
 ## Materiais e Métodos
 

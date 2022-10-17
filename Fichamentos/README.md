@@ -15,6 +15,9 @@
 13. [Assessing the Safety and Reliability of Autonomous Vehicles from Road Testing](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-ResearchTemplate/blob/master/Fichamentos/TemplateDeFichamento.md)
 14. [Metamorphic Fuzz Testing of Autonomous Vehicles](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-ResearchTemplate/blob/master/Fichamentos/TemplateDeFichamento.md)
 15. [Applying evolution and novelty search to enhance the resilience of autonomous systems](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-ResearchTemplate/blob/master/Fichamentos/TemplateDeFichamento.md)
+16. [An Empirical Investigation on the Effect of Code Smells on Resource Usage of Android Mobile Applications](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-ResearchTemplate/blob/master/Fichamentos/artigo7.md)
+17. [An Are Code Smell Co-occurrences Harmful to Internal Quality Attributes? A Mixed-Method Study](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-ResearchTemplate/blob/master/Fichamentos/artigo8.md)
+18. [Analyzing the Impact of Inter-smell Relations on Software Maintainability](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-ResearchTemplate/blob/master/Fichamentos/artigo9.md)
 
 
 ...

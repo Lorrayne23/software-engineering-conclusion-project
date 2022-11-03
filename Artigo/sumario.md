@@ -1,3 +1,4 @@
+<div align="justify">
 # Análise qualitativa de repositórios simuladores de sistemas de direção autônoma no decorrimento de *code smells* e métricas qualitativas
 
 ## Alunos integrantes da equipe
@@ -37,4 +38,5 @@ a qualidade de software se estabelece não somente nos problemas que esse tange 
 1. Os materiais utilizados neste trabalho são : *API GraphQL* do *Github*, *API REST* do *GitHub*, *PowerBI*, bibliotecas *multimetric*, *Radon* e o pacote *swear* do *Python*.
 1. Os métodos empregados neste trabalho são  métodos de correlações e de dispersão. 
 1. As métricas de avaliação são métricas relacionadas a aplicações de *Halstead* como *Number of delivered bugs according to Halstead* e *Maintainability index*, *SLOC*, *comment lines*, *blank lines* , *Cyclomatic Complexity*, entre outas.
-1. As etapa de execução do trabalho são : 1) Coleta de repositórios, 2) Coleta de *releases*, 3) Aferimento de *code smells* e métricas, 4) Análise de resultados.
+1. As etapa de execução do trabalho são : 1) Coleta de repositórios, 2) Coleta de *releases*, 3) Aferimento de *code smells* e métricas e 4) Análise de resultados.
+<div>

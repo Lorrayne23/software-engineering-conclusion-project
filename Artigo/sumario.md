@@ -33,8 +33,8 @@ a qualidade de software se estabelece não somente nos problemas que esse tange 
 1. O terceiro trabalho mais relacionado é *Detecting Code Smells in Python Programs*, publicado no ano 2016, por que  promove a detecção de *code smells* e realizam  a classificação dos tipos que possuem maior ocorrência em sistemas dessa linguagem, por meio da ferramenta de detecção de *code smells* denominada *Pysmell*.
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é ...., por que ...
-1. Os materiais utilizados neste trabalho são .... [ex.: software, computadores, dados, etc]
-1. Os métodos empregados neste trabalho são .... [ex.: método de amostragem, método de análise de correlação, método de agrupamento, etc]
-1. As métricas de avaliação são .... [ex.: tempo de resposta, taxa de erros, mutation score, cobertura, latência, etc]
-1. As etapa de execução do trabalho são .... [listar as etapa de execução]
+1. O tipo de pesquisa adotado neste trabalho é  quantitativa com viés descritivo, tal embasamento pode ser justificado dado a intenção desse em compreender o relacionamento existente entre atributos qualitativos de softwares ADSs e a presença de code smells por meio da análise de dados obtidos através da mineração de repositórios no *Github*.
+1. Os materiais utilizados neste trabalho são : *API GraphQL* do *Github*, *API REST* do *GitHub*, *PowerBI*, bibliotecas *multimetric*, *Radon* e o pacote *swear* do *Python*.
+1. Os métodos empregados neste trabalho são  métodos de correlações e de dispersão. 
+1. As métricas de avaliação são métricas relacionadas a aplicações de *Halstead* como *Number of delivered bugs according to Halstead* e *Maintainability index*, *SLOC*, *comment lines*, *blank lines* , *Cyclomatic Complexity*, entre outas.
+1. As etapa de execução do trabalho são : 1) Coleta de repositórios, 2) Coleta de *releases*, 3) Aferimento de *code smells* e métricas, 4) Análise de resultados.

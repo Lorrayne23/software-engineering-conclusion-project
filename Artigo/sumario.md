@@ -16,7 +16,7 @@
 1. A área da Engenharia de Software tratada neste trabalho é qualidade de *software*.
 1. O problema a ser resolvido se pontua na escassez informacional da qualidade de repositórios de *softwares* *open source* simuladores na promoção de *code smells*, que podem ocasionar em simulações de baixa confiabilidade.
 1.Resolver o problema desse trabalho é importante, pois outras abordagens da literatura não apontam a necessidade atencional da relação entre a *softwares* ADSs *open source* e a qualidade do código na promoção de *code smells* que podem contribuir para simulações falhas no desenvolvimento de AVs. 
-1. O objetivo geral do trabalho visa identificar o relacionamento entre atributos de qualidade de *softwares* simuladores *open source ADSs* na ocorrência de *code smells.
+1. O objetivo geral do trabalho visa identificar o relacionamento entre atributos de qualidade de *softwares* simuladores *open source ADSs* na ocorrência de *code smells*.
 1. Os *três* objetivos específicos deste trabalho são : 1) Classificação de code smells frequentes em repositórios simuladores de ADSs, 2) Relação entre atributos internos de qualidade e a ocorrência de code smells classificados 3) Comparação e correlação da tendência quantitativa  de code smells com a promoção de *releases*.
 
 ## Fundamentação Teórica

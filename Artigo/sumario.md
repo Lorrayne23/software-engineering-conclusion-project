@@ -30,7 +30,7 @@ a qualidade de software se estabelece não somente nos problemas que esse tange 
 ## Trabalhos Relacionados
 
 1. O trabalho mais relacionado é *An Are Code Smell Co-occurrences Harmful to Internal Quality Attributes? A Mixed-Method Study*, publicado no ano 2020 , por que apresenta a relação existente entre *code smells* e atributos internos de qualidade por meio de métricas validas e com embasamento teórico.
-1. O segundo trabalho mais relacionado é *A Comprehensive Study of Autonomous Vehicle Bugs*, publicado no ano 2020,  por que criam uma taxonomia de *bugs* recorrentes que afetam diretamente  softwares semelhantes aos almejados para investigação.
+1. O segundo trabalho mais relacionado é *A Comprehensive Study of Autonomous Vehicle Bugs*, publicado no ano 2020,  por que criam uma taxonomia de *bugs* recorrentes que afetam diretamente  *softwares* semelhantes aos almejados para investigação.
 1. O terceiro trabalho mais relacionado é *Detecting Code Smells in Python Programs*, publicado no ano 2016, por que  promove a detecção de *code smells* e realizam  a classificação dos tipos que possuem maior ocorrência em sistemas dessa linguagem, por meio da ferramenta de detecção de *code smells* denominada *Pysmell*.
 ## Materiais e Métodos
 

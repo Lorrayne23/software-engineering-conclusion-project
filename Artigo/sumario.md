@@ -35,7 +35,7 @@ a qualidade de software se estabelece não somente nos problemas que esse tange 
 ## Materiais e Métodos
 
 1. O tipo de pesquisa adotado neste trabalho é  quantitativa com viés descritivo, tal embasamento pode ser justificado dado a intenção desse em compreender o relacionamento existente entre atributos qualitativos de softwares ADSs e a presença de code smells por meio da análise de dados obtidos através da mineração de repositórios no *Github*.
-1. Os materiais utilizados neste trabalho são : *API GraphQL* do *Github*, *API REST* do *GitHub*, *PowerBI*, bibliotecas *multimetric*, *Radon* e o pacote *swear* do *Python*.
+1. Os materiais utilizados neste trabalho são : *API GraphQL* do *Github*, *API REST* do *GitHub*, *PowerBI*, bibliotecas *multimetric* e *Radon* do *Python*.
 1. Os métodos empregados neste trabalho são  métodos de correlações e de dispersão. 
 1. As métricas de avaliação são métricas relacionadas a aplicações de *Halstead* como *Number of delivered bugs according to Halstead* e *Maintainability index*, *SLOC*, *comment lines*, *blank lines* , *Cyclomatic Complexity*, entre outas.
 1. As etapa de execução do trabalho são : 1) Coleta de repositórios, 2) Coleta de *releases*, 3) Aferimento de *code smells* e métricas e 4) Análise de resultados.

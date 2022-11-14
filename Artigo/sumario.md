@@ -1,5 +1,6 @@
 <div align="justify">
-# Análise qualitativa de repositórios simuladores de sistemas de direção autônoma no decorrimento de *code smells* e métricas qualitativas
+  
+# Análise da relação entre *code smells* e métricas qualitativas em repositórios de Sistemas de direção autônoma
 
 ## Alunos integrantes da equipe
 

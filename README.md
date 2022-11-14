@@ -15,8 +15,6 @@ O objetivo do trabalho é analisar o relacionamento de métricas qualitativas e 
 * Cleiton Silva Tavares (TCCI)
 * Simone de Assis Alves da Silva (TCCI)
 
-## Instruções de Replicação/Reprodução
 
-Apresentar instruções de como o trabalho pode ser replicado/reproduzido.
 
 <div>

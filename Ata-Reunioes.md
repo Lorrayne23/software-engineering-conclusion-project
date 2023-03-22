@@ -10,3 +10,10 @@ Nessa reunião o orientador apresentou   melhorias no artigo do aluno em relaç�
 ### Próxima entrega - dia 15/03/2023
 
 Para a próxima entrega o aluno deverá apresentar quais serão as questões de pesquisa, que serão respondidas pelo artigo. Essas questões serão utilizadas para guiar o estudo.  Combinamos que o aluno envie pelo Teams um conjunto de questões antes de documentar no artigo. 
+
+### Reunião  dia 22/03/2023
+
+Para a reunião do dia 29/03/2023, faça: 
+1) Computar as métricas de código fonte 
+2) Rodar as 4 ferramentas para detectar code smells. 
+3) Selecionar  10 repositórios aleatórios  e computar os resultados. 

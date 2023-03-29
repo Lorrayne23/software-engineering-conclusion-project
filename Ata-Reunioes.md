@@ -17,3 +17,7 @@ Para a reunião do dia 29/03/2023, faça:
 1) Computar as métricas de código fonte 
 2) Rodar as 4 ferramentas para detectar code smells. 
 3) Selecionar  10 repositórios aleatórios  e computar os resultados. 
+
+
+### Reunião  dia 29/03/2023
+A reunião teve que ser cancelada pela aluna.  Um nova reunião será feita na segunda-feira (03/04/2023)

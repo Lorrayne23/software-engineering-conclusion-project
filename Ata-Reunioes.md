@@ -21,3 +21,8 @@ Para a reunião do dia 29/03/2023, faça:
 
 ### Reunião  dia 29/03/2023
 A reunião teve que ser cancelada pela aluna.  Um nova reunião será feita na segunda-feira (03/04/2023)
+
+
+### Reunião  dia 05/04/2023
+
+- Execução das ferramentas e computação dos dados até dia 20/04/2023. A partir do dia 20/04/2023 iremos trabalhar apenas na parte textual do artigo, por exemplo,  seção de resultados. Atualmente a aluna está computando os dados. 

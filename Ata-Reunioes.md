@@ -26,3 +26,8 @@ A reunião teve que ser cancelada pela aluna.  Um nova reunião será feita na s
 ### Reunião  dia 05/04/2023
 
 - Execução das ferramentas e computação dos dados até dia 20/04/2023. A partir do dia 20/04/2023 iremos trabalhar apenas na parte textual do artigo, por exemplo,  seção de resultados. Atualmente a aluna está computando os dados. 
+
+
+### Reunião  dia 14/04/2023
+
+- A aluna apresentou resultados parciais, mas falta terminar a execução das ferramentas e  computar mais dados. 

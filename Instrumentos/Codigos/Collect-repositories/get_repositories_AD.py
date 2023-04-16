@@ -60,7 +60,7 @@ def save_file(result):
     columns = ["Name", "NameWithOwner","Url", "UpdateAt", "Num_of_Releases"]
     df = pd.DataFrame(data, columns=columns)
     df = df.set_index('Name')
-    df.to_csv("./Collect repositories/repositories-autonomous-driving.csv")
+    df.to_csv("./Collect-repositories/repositories-autonomous-driving.csv")
 
 pages = 10
 endCursor = None

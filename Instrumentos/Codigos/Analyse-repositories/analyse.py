@@ -1,14 +1,16 @@
 import os
+import pathlib
 import subprocess
 import  glob
 import shutil
+import pandas as pd
 
-location = os.getcwd() # This will return the Current Working Directory
+'''location = os.getcwd() # This will return the Current Working Directory
 file = './Collect-repositories/Repositories/Cloned-repositories/' # file location of cloned repositories
-file_path = location.replace("Analyse-repositories",file) # Path to file
+file_path = location.replace("Analyse-repositories",file) # Path to file'''
 
 
-files_py = [f for f in glob.glob(file_path + "**/*.py", recursive=True)] # Search for all python files in the path
+'''files_py = [f for f in glob.glob(file_path + "**/*.py", recursive=True)] # Search for all python files in the path
 
 for file in files_py:
     f = open(str(file)+"flake8-output.txt", "w") # Define txt with the name of the xxx.py file
@@ -20,7 +22,7 @@ for file in files_py:
 
 
 
-files = [f for f in glob.glob(file_path + "**/*.txt", recursive=True)] # Get all the txt files generated'''
+files = [f for f in glob.glob(file_path + "**/*.txt", recursive=True)] # Get all the txt files generated
 
 
 
@@ -58,4 +60,30 @@ for archive in os.listdir(os.getcwd()):
 files = [f for f in glob.glob(file_path + "**/*output.txt", recursive=True)] # Get all the txt files generated
 
 for file in files:
-    os.remove(file)
+    os.remove(file)'''
+
+path_salve_file_smelly_python = os.getcwd()
+path = 'Collect-repositories/Repositories/' # file location of cloned repositories
+file_path = path_salve_file_smelly_python.replace("Analyse-repositories",path) # Path to file
+
+#subprocess.run("ls")
+
+wd = os.getcwd()
+os.chdir(file_path)
+print(os.getcwd())
+
+
+
+
+subprocess.run(["smelly-python","-d","Cloned-repositories"])
+#shutil.move(os.getcwd())
+
+for file in os.listdir():
+    if file == 'report':
+        path_salve_file_ = os.getcwd()
+        file_path = path_salve_file_smelly_python.replace("Collect-repositories/Repositories/","Analyse-repositories/")  # Path to file
+        shutil.move(file,file_path)
+        #os.rename("report",)
+
+        # rename report to smelly
+

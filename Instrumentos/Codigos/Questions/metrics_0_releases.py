@@ -83,48 +83,8 @@ multimetric_0_releaes = multimetric_0_releaes.append(new_row, ignore_index=True)
 multimetric_0_releaes.to_csv("../Questions/Answers/mertrics_0_releases.csv")
 
 
-'''df_with_releases = pd.read_csv("repositories_with_relases.csv", sep=",")
-repositories_with_relases.csv = df_with_releases['Name']
-df_filter_with_releases = df[df['Repository'].isin(repositories_with_relases.csv)]
-
-large_class = df_filter_with_releases[(df_filter_with_releases.LOC >= 200) & (df_filter_with_releases.block_type == 'C')]
-total_repositories_large_class = large_class['Repository'].unique()
-print(len(total_repositories_large_class)) # Foram encontrados em 133 repositórios
-large_class=large_class.groupby(["Repository", "block_type"])["Repository"].count().rename('Quantity-Large-Class').reset_index() # Conta o número de ocorências de long class em dado repositório
-sum_large_class = int(large_class['Quantity-Large-Class'].sum())
-
-#print(large_class)
-
-long_method = df_filter_with_releases[(df_filter_with_releases.LOC >= 100) & (df_filter_with_releases.block_type == 'M')]
-total_repositories_long_method = long_method['Repository'].unique()
-#print(len(total_repositories_long_method)) # Foram encontrados em 156 repositórios
-long_method=long_method.groupby(["Repository", "block_type"])["Repository"].count().rename('Quantity-Long-Method').reset_index() # Conta o número de ocorências de long_method em dado repositório
-sum_long_method = int(long_method['Quantity-Long-Method'].sum())
-
-comment_ratio = df_filter_with_releases['comment_ratio'].sum()
-cyclomatic_complexity = df_filter_with_releases['cyclomatic_complexity'].sum()
-fanout_external = df_filter_with_releases['fanout_external'].sum()
-fanout_internal = df_filter_with_releases['fanout_internal'].sum()
-halstead_bugprop = df_filter_with_releases['halstead_bugprop'].sum()
-halstead_difficulty = df_filter_with_releases['halstead_difficulty'].sum()
-halstead_effort = df_filter_with_releases['halstead_effort'].sum()
-halstead_timerequired = df_filter_with_releases['halstead_timerequired'].sum()
-halstead_volume = df_filter_with_releases['halstead_volume'].sum()
-
-new_row2 = {'repositories': 'repositories_with_relases.csv','Total_Large_Class':sum_large_class, 'Total_Long_Method': sum_long_method,'comment_ratio': int(comment_ratio), 'cyclomatic_complexity': int(cyclomatic_complexity), 'fanout_external': int(fanout_external),
-           'fanout_internal':  int(fanout_internal), 'halstead_bugprop':int(halstead_bugprop), 'halstead_effort' : int(halstead_effort ), 'halstead_difficulty': int(halstead_difficulty),
-           'halstead_timerequired': int(halstead_timerequired),'halstead_volume': int(halstead_volume)}
-multimetric_releases = multimetric_releases.append(new_row2, ignore_index=True)
-
-print(multimetric_releases)
 
 
-
-location = os.getcwd() # This will return the Current Working Directory
-file = 'Questions' # file location of cloned repositories
-file_path = location.replace("Analyse-repositories",file) # Path to file
-os.chdir(file_path) 
-multimetric_releases.to_csv("/multimetric_smell_releases.csv")'''
 
 
 

@@ -28,14 +28,6 @@ without_large_class_repositories = df_without_Large_Class['Repository'].unique()
 df_without_Large_Class = multimetric[multimetric['Repository'].isin(without_large_class_repositories)]
 
 
-'''long_method = df[(df.LOC >= 100) & (df.block_type == 'M')]
-total_repositories_long_method = long_method['Repository'].unique()
-#print(len(total_repositories_long_method)) # Foram encontrados em 156 repositórios
-long_method=long_method.groupby(["Repository", "block_type"])["Repository"].count().rename('Quantity-Long-Method').reset_index() # Conta o número de ocorências de long_method em dado repositório
-sum_long_method = int(long_method['Quantity-Long-Method'].sum())
-
-long_method_repositories = long_method['Repository'].unique()
-df_multimetric = df_multimetric[df_multimetric['Repository'].isin(long_method_repositories)] # Get the metrics of the repositories with large class e long method'''
 
 df['Total_Comments'] = df['Comments'] + df['Single Comments'] + df['Multi']
 df['Total_Comments_LOC'] = df['Total_Comments'] / df['LOC']
@@ -45,13 +37,6 @@ comments = df[df.Total_Comments_LOC >= df.Percentage_LOC]
 total_repositories_comments = comments['Repository'].unique()
 comments=comments.groupby(["Repository", "block_type"])["Repository"].count().rename('Quantity-Comments').reset_index() # Conta o número de ocorências de long_method em dado repositório
 sum_comments = int(comments['Quantity-Comments'].sum())
-
-'''comments_repositories = comments['Repository'].unique()
-df_multimetric = df_multimetric[df_multimetric['Repository'].isin(comments_repositories)] # Get the metrics of the repositories with large class , long method and comments
-df_multimetric = df_multimetric.drop('Unnamed: 0', axis=1)
-df_without_smells = df_multimetric[~df_multimetric['Repository'].isin(comments_repositories)]
-print(len(df_without_smells['Repository'].unique()))'''
-
 
 files = df_multimetric['Repository'].unique()
 comment_ratio = df_multimetric['comment_ratio'].sum()

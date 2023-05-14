@@ -13,7 +13,7 @@ path_to_cloned_respositories = os.getcwd() + "/Cloned-repositories"
 print(path_to_cloned_respositories)
 print(file_path)
 
-#Instrumentos/Codigos/Collect-repositories/concatenated_repositories.csv
+
 
 
 df = pd.read_csv(file_path)
@@ -44,7 +44,7 @@ repositories = df['Url'][901:1000]
 
 
 for i in repositories:
- #git.Git(path_to_dulicated_respositories).clone(i)
+ git.Git(path_to_dulicated_respositories).clone(i)
 
 
 

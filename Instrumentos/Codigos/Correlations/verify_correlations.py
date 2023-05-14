@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sb
 
 
-'''df = pd.read_csv("../Questions/Answers/releases_smells.csv")
+df = pd.read_csv("../Questions/Answers/releases_smells.csv")
 df = df.drop("Unnamed: 0", axis=1)
 
 df = df.rename(columns={
@@ -26,7 +26,7 @@ sb.heatmap(pearsoncorr,
             annot=True,
             linewidth=0.5)
 
-plt.savefig('./Correlation-charts/metrics_smells_releases.png')'''
+plt.savefig('./Correlation-charts/metrics_smells_releases.png')
 
 '''df_0_releases = pd.read_csv("../Questions/Answers/without_releases_smells.csv")
 df_0_releases = df_0_releases.drop("Unnamed: 0", axis=1)
@@ -52,7 +52,7 @@ sb.heatmap(correlation_0_Releases,
 
 plt.savefig('./Correlation-charts/metrics_smells_without_releases.png')'''
 
-'''df_metric_smells = pd.read_csv("../Questions/Answers/metrics_with_smells.csv")
+df_metric_smells = pd.read_csv("../Questions/Answers/metrics_with_smells.csv")
 df_metric_smells = df_metric_smells.drop("Unnamed: 0", axis=1)
 
 df_metric_smells = df_metric_smells.rename(columns={
@@ -74,7 +74,7 @@ sb.heatmap(correlation_metrics_smells,
             annot=True,
             linewidth=0.5)
 
-plt.savefig('./Correlation-charts/metrics_smells.png')'''
+plt.savefig('./Correlation-charts/metrics_smells.png')
 
 
 df_metric_without_smells = pd.read_csv("../Questions/Answers/metrics_without_smells.csv")

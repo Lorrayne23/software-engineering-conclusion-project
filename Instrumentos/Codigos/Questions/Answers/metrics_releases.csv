@@ -1,0 +1,2 @@
+,repositories,Total_Large_Class,Total_Long_Method,Total_Comments,comment_ratio,cyclomatic_complexity,fanout_external,fanout_internal,halstead_bugprop,halstead_difficulty,halstead_effort,halstead_timerequired,halstead_volume
+0,repositories_with_releases,28248,236453,49614,6412,4803,3315,329,937,18520,465294617,25849700,2813461

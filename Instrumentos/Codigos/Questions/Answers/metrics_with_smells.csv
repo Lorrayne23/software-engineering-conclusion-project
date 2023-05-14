@@ -1,0 +1,4 @@
+,repositories,comment_ratio,cyclomatic_complexity,fanout_external,fanout_internal,halstead_bugprop,halstead_difficulty,halstead_effort,halstead_timerequired,halstead_volume
+1,Large_Class_smell_metrics,40627,32116,19482,1628,6097,112796,2804236125,155790895,18291307
+2,Long_Method_smell_metrics,134,44176,32691,20077,1662,6163,115024,2809733362,156096297
+3,Comments_smell_metrics,40871,27226,16950,1470,5266,100624,2627821842,145990102,15798359

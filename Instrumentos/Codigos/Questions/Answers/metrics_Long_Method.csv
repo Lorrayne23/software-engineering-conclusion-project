@@ -1,0 +1,3 @@
+,Type,Total_Repositories,comment_ratio,cyclomatic_complexity,fanout_external,fanout_internal,halstead_bugprop,halstead_difficulty,halstead_effort,halstead_timerequired,halstead_volume
+0,Long_Method_smell_metrics,134,44176,32691,20077,1662,6163,115024,2809733362,156096297,18490425
+1,Without_Long_Method_metrics,73,2580,1221,960,83,279,4126,134699331,7483296,838696

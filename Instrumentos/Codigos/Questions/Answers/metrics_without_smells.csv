@@ -1,0 +1,4 @@
+,repositories,comment_ratio,cyclomatic_complexity,fanout_external,fanout_internal,halstead_bugprop,halstead_difficulty,halstead_effort,halstead_timerequired,halstead_volume
+1,Without_Large_Class_metrics,6128,1796,1555,117,345,6355,140196568,7788698,1037815
+2,Without_Long_Method_metrics,2580,1221,960,83,279,4126,134699331,7483296,838696
+3,Without_Comments_metrics,5884,6686,4087,275,1176,18526,316610851,17589491,3530762

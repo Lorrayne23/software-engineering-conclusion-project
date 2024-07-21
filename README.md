@@ -1,10 +1,10 @@
 <div align="justify">
 
-# Análise da Relação Entre *Code Smells* e Métricas Qualitativas em Repositórios do *Github* de Sistemas de Direção Autônoma
+# Analysis of the Relationship Between *Code Smells* and Qualitative Metrics in *Github* Repositories of Autonomous Driving Systems
 
-O objetivo do trabalho é analisar o relacionamento de métricas qualitativas e *code smells* em repositórios de Sistemas de direção autônoma presentes no *Github*, por meio da classificação de *code smells* que ocorrem frequentemente nesses sistemas, da relação entre métricas qualitativas e *code smells* frequentemente classificados e da observância do aumento ou decremento de code smells de acordo com o número de *releases* associadas a um repositório, por meio da coleta de 200 repositórios da linguagem *Python*.
+The objective of the work is to analyze the relationship between qualitative metrics and *code smells* in Autonomous Driving Systems repositories present on *Github*, through the classification of *code smells* that frequently occur in these systems, the relationship between qualitative metrics and *code smells* frequently classified and compliance with the increase or decrease of code smells according to the number of *releases* associated with a repository, through the collection of 200 *Python* language repositories.
 
-## Alunos integrantes da equipe
+## Students members 
 
 * Lorrayne Reis Silva
 

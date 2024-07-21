@@ -4,7 +4,7 @@
 
 ## Alunos integrantes da equipe
 
-* Lorrayne Reis Silva
+* Lorrayne Reis Silva.
 
 ## Orientadores
 

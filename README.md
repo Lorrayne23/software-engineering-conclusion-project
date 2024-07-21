@@ -18,7 +18,7 @@ repositories
 * Lorrayne Reis Silva
 
 
-## Professores responsáveis
+## Responsible teachers
 
 * Jose Laerte Pires Xavier Junior (TCCI)
 * Cleiton Silva Tavares (TCCI)

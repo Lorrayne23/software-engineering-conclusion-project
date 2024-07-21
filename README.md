@@ -5,8 +5,7 @@
 Autonomous driving systems have gained prominence in the recent
 industrial market, serving as precursors to autonomous vehicles that promote
 driving without human interference. As a result, repositories for simulating
-these systems are frequently used in development and testing, and the reliabi-
-lity of the simulations may be directly related to qualitative factors. Due to the
+these systems are frequently used in development and testing, and the reliability of the simulations may be directly related to qualitative factors. Due to the
 scarcity of studies addressing this subject, this research aims to understand the
 qualitative relationships presented by this segment through the analysis of code
 smells and quality attributes in 200 repositories written in the Python language.
